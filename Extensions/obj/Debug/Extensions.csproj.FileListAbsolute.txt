@@ -1,0 +1,15 @@
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\bin\Debug\Extensions.dll
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\bin\Debug\Extensions.pdb
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\obj\Debug\Extensions.dll
+C:\SVN\wcf\labs2008\13_Extensibility\WcfExtensibilitySamples\Extensions\obj\Debug\Extensions.pdb
+C:\Demos\Extensibility\Extensions\bin\Debug\Extensions.dll
+C:\Demos\Extensibility\Extensions\bin\Debug\Extensions.pdb
+C:\Demos\Extensibility\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\Demos\Extensibility\Extensions\obj\Debug\Extensions.dll
+C:\Demos\Extensibility\Extensions\obj\Debug\Extensions.pdb
+C:\wcfunum\demos\day3\Extensibility\Extensions\bin\Debug\Extensions.dll
+C:\wcfunum\demos\day3\Extensibility\Extensions\bin\Debug\Extensions.pdb
+C:\wcfunum\demos\day3\Extensibility\Extensions\obj\Debug\ResolveAssemblyReference.cache
+C:\wcfunum\demos\day3\Extensibility\Extensions\obj\Debug\Extensions.dll
+C:\wcfunum\demos\day3\Extensibility\Extensions\obj\Debug\Extensions.pdb
